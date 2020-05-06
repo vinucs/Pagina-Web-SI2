@@ -33,7 +33,7 @@ ul {
     width: auto;
     float: right;
     margin-top: 8px;
-
+    list-style-type: none;
 }
 
 li {
@@ -128,4 +128,10 @@ p4 {
     left: 1300px;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
+}
+
+.summary {
+    position: absolute;
+    right: 1700px;
+    font-family: 'Roboto', sans-serif;
 }
